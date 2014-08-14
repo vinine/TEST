@@ -21,5 +21,9 @@ public class Branch extends GitObject {
     public @Override String toString() {
         return "Branch " + name + "(" + sha1 + ")";
     }
-    
+    int x;
+    if(x = 0)
+    {}
+    else
+    {}
 }
